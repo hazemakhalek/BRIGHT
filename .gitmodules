@@ -1,0 +1,3 @@
+[submodule "submodules/pypsa-earth-sec"]
+	path = submodules/pypsa-earth-sec
+	url = https://github.com/pypsa-meets-earth/pypsa-earth-sec.git
